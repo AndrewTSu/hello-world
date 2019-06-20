@@ -1,0 +1,5 @@
+Bootstrap: docker
+From: chunglabmit/simpleelastix
+
+%help
+An attempt to build a singularity container that contains simpleelastix
